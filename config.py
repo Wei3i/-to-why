@@ -5,7 +5,7 @@
 # 硅基流动官方文档: https://docs.siliconflow.cn/
 
 # API 密钥 (从硅基流动获取)
-SILICONFLOW_API_KEY = "your_api_key_here"
+SILICONFLOW_API_KEY = "sk-dpfqdhzzclabhycetrjvutmygdvfrluhdqbrrriskachojrz"
 
 # 接口地址
 SILICONFLOW_API_URL = "https://api.siliconflow.cn/v1"
